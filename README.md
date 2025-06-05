@@ -1,6 +1,9 @@
-Bienvenue/ Welcome!
+Bienvenue/Welcome!
 
-Je m'appelle Maryam Boroughani, étudiante en développement web passionnée par la création de solutions numériques innovantes et conviviales. Mes projets reflètent mes compétences en HTML, CSS, JavaScript, PHP, ainsi que des frameworks comme React et Laravel. J’aime travailler sur des plateformes dynamiques, en mettant l’accent sur l’accessibilité et l’expérience utilisateur. Chaque projet témoigne de ma volonté d’apprendre et de progresser en tant que développeuse. N'hésitez pas à explorer mon travail et à me contacter !
+Je m'appelle Maryam Boroughani, développeuse web diplômée, passionnée par la création de solutions numériques innovantes et intuitives. Forte de mon expérience dans la conception et le développement de sites et applications web, j’ai acquis des compétences solides en HTML, CSS, JavaScript, PHP, ainsi que dans l’utilisation de frameworks comme React et Laravel. Mon parcours m’a permis de travailler sur des projets dynamiques où l'accessibilité et l'expérience utilisateur sont au cœur de mes préoccupations.
 
+Mon objectif est de créer des plateformes efficaces et interactives, tout en continuant à apprendre et à m’adapter aux nouvelles technologies. N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !
 
-I'm Maryam Boroughani, a web development student passionate about creating innovative and user-friendly digital solutions. My projects showcase skills in HTML, CSS, JavaScript, PHP, and frameworks like React and Laravel. I enjoy working on dynamic platforms with a focus on accessibility and user experience. Each project reflects my dedication to learning and growing as a developer. Feel free to explore my work and reach out for collaborations!
+I'm Maryam Boroughani, a web developer with a degree in web development, passionate about creating innovative and user-friendly digital solutions. With hands-on experience in web design and development, I've honed solid skills in HTML, CSS, JavaScript, PHP, and frameworks like React and Laravel. My projects focus on dynamic platforms where accessibility and user experience take center stage.
+
+My goal is to create effective and interactive platforms while continuously learning and adapting to new technologies. Feel free to explore my projects and reach out for collaborations!
